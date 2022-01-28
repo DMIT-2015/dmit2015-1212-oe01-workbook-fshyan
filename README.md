@@ -1,5 +1,5 @@
 # DMIT2015 Basic Starter Kit
 
-## Owner your name
+## Fahim Shyan
 
 alter this statement to indicate the usage of this repository
